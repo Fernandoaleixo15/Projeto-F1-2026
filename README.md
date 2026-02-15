@@ -50,10 +50,12 @@
 git clone https://github.com
 <h3>2-Navegue até a pasta:</h3>
 <h4>bash</h4>
-cd f1-2026-page
+[cd f1-2026-page](https://github.com/Fernandoaleixo15/Projeto-F1-2026.git)
 <h3>3-Abra o arquivo index.html no seu navegador ou utilize a extensão Live Server do VS Code.</h3>
+<br>
 <h2>🏁 Contribuição</h2>
 <p>Sinta-se à vontade para abrir uma <strong> Issue </strong> ou enviar <strong> um Pull </strong> Request com melhorias, novos dados de pilotos ou ajustes de layout.</p>
+<hr>
 <h2>⭐ Gostou do projeto? Dê uma estrela no repositório!</h2>
 
 
