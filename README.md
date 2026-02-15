@@ -47,7 +47,7 @@
 <h2>🔧 Como Rodar o Projeto</h2>
 <h3> 1-Clone o repositório:</h3>
 <h4>bash</h4>
-git clone https://github.com
+[git clone https://github.com](https://projeto-f1-2026.vercel.app/)
 <h3>2-Navegue até a pasta:</h3>
 <h4>bash</h4>
 [cd f1-2026-page](https://github.com/Fernandoaleixo15/Projeto-F1-2026.git)
